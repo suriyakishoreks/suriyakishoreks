@@ -62,6 +62,8 @@ OtakuVibe is a modern anime and manga discovery platform, rebuilt from the groun
 * **Modern React Patterns:** Functional components, hooks, custom hooks (e.g., `useIntersectionObserver`), Strict TypeScript for maintainability.
 * **UI/UX Excellence:** Smooth transitions, responsive design, accessibility, theme toggle, localization, polished micro-animations.
 
+---
+
 ### 💼 Work Experience Highlights
 
 * **UI Engineer II at Flipkart (04/2022-05/2025):** 
