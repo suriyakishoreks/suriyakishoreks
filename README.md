@@ -13,7 +13,7 @@ I'm a results-driven UI Engineer with 4+ years of expertise in TypeScript, JavaS
 
 ### 💻 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,reactnative,kotlin,redux,html,css,git,vite,sass,motion,eslint,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,kotlin,redux,html,css,git,vite,sass,figma)](https://skillicons.dev)
 
 **Key Areas of Expertise:**
 * **Frontend Development:** React, React Native, TypeScript, JavaScript, HTML, CSS, SCSS, Redux Toolkit (RTK Query & Redux Persist), React Router
